@@ -5,6 +5,7 @@
 # Tue 04 Jun 2019 11:35:55 AM UTC
 # Version 1
 # Simple bash script to pull dotfiles and set them up
+# Script based on instructions and example from: https://www.atlassian.com/git/tutorials/dotfiles
 #=========================================================================================
 
 repo=$1
